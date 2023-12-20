@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Text{
+    display: flex;
+    height: 50px;
+    background-color: brown;
+    border-bottom: black;
+    border-color: black;
+}
+.Text h1{
+    padding-top: 10px;
+    padding-left: 30px;
+    font-size: 25px;
+    font-weight: 15px;
+}
+    .H1{
+        background-color: aliceblue;
+        padding-right: 10px;
+    }
+    .Text2{
+        height: 500px;
+        background-color: brown;
+        margin-top: 0.5px;
+    }
+    .Text2 h1{
+        padding-left: 400px;
+        padding-top: 150px;
+        font-size: 60px;
+        color: aliceblue;
+        font-weight: 40px;
+
+    }
+
+    .Text2 h2{
+        color: aliceblue;
+        padding-left: 500px;
+        padding-top: 30px;
+    }
+    .Text2 h3{
+        background-color: black;
+        width: 130px;
+        height: 40px;
+        color: aliceblue;
+        padding: auto;
+        margin-left: 530px;
+        margin-top: 40px;
+        padding-left: 20px;
+        padding-top: 20px;
+    }
+
+.Xet{
+    display: flex;
+    height: 400px;
+    border-color: black;
+}
+.Xet h1{
+    padding-left: 200px;
+    padding-top: 60px;
+}
+.Xet p{
+    display: flex;
+    width: 600px;
+    height: 100px;
+    padding-left: 200px;
+    padding-top: 50px;
+    font-size: 20px;
+}
+.sss{
+    display: flex;
+    width: 700px;
+    height: 400px;
+    padding-left:200px ;
+    padding-top: 50px;
+    color: rgb(70, 71, 71);
+}
+.Surat{
+    padding-top: 100px;
+}
+
+.Xet2{
+    display: flex;
+    background-color: rgb(220, 225, 225);
+    margin-top: 100px;
+    height: 600px;
+}
+
+.Surat2{
+    padding-left: 100px;
+    padding-top: 200px;
+}
+.Xet2 h1{
+    padding-left: 200px;
+    padding-top: 60px;
+}
+.Xet2 p{
+    display: flex;
+    width: 600px;
+    height: 100px;
+    padding-left: 200px;
+    padding-top: 50px;
+    font-size: 20px;
+}
+.sss2{
+    display: flex;
+    width: 700px;
+    height: 400px;
+    padding-left:200px ;
+    padding-top: 50px;
+    color: rgb(70, 71, 71);
+}
+.Xat3{
+    height: 200px;git init
+    background-color: rgb(30, 29, 29);
+}
+.Xat3 h1{
+padding-left: 400px;
+color: antiquewhite;
+padding-top: 80px;
+}
+.Imm{
+    background-color: white;
+    height: 400px;
+}
+.Imm img{
+    padding-left: 350px;
+    padding-top: 60px;
+}
+.Imm h4{
+   
+    padding-top: 10px;
+    text-align: center;
+}
